@@ -1,6 +1,6 @@
-# MINOR# QuickLogs: Advanced Log Analysis Tool
+# MINOR
+# QuickLogs: Advanced Log Analysis Tool
 
-**Version:** 1.0  
 **Authors:** Suraj Singh, Bhavya Jain, Rohit Hooda  
 **Mentor:** Dr. Hitesh Kumar Sharma
 
